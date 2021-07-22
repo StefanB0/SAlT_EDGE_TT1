@@ -1,0 +1,9 @@
+{
+    "login": null,
+    "password": null,
+    "browser_close": true,
+    "reorder_data": [0, 4, 1],
+    "remove_index": [3],
+    "song_collection": ["spotify:track:2K2NeVnP853rkR5ese8ZLP", "spotify:track:0pjIkwwUFLCGqLY90Jp3bH", "spotify:track:18oTMQbtd6rV15T0VREzTR", "spotify:track:3M5d9IDIMCZYfSRxAr5Bti"],
+    "scopes": ["playlist-modify-public"]
+}

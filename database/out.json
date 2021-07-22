@@ -1,0 +1,42 @@
+{
+  "id": "3nn8T5NG3sVHlmm2uKjKL1",
+  "name": "My new playlist",
+  "description": "some awesome description",
+  "owner_name": "WhiteNight",
+  "spotify_url": "https://open.spotify.com/playlist/3nn8T5NG3sVHlmm2uKjKL1",
+  "tracks": [
+    {
+      "id": "0pjIkwwUFLCGqLY90Jp3bH",
+      "name": "Devil Dogs",
+      "artist_name": [
+        "Sabaton"
+      ],
+      "album_name": "The Great War",
+      "spotify_url": "https://open.spotify.com/track/0pjIkwwUFLCGqLY90Jp3bH",
+      "uri": "spotify:track:0pjIkwwUFLCGqLY90Jp3bH"
+    },
+    {
+      "id": "18oTMQbtd6rV15T0VREzTR",
+      "name": "Stand Proud",
+      "artist_name": [
+        "Jonathan Young",
+        "SixteenInMono",
+        "RichaadEB"
+      ],
+      "album_name": "Stand Proud",
+      "spotify_url": "https://open.spotify.com/track/18oTMQbtd6rV15T0VREzTR",
+      "uri": "spotify:track:18oTMQbtd6rV15T0VREzTR"
+    },
+    {
+      "id": "3M5d9IDIMCZYfSRxAr5Bti",
+      "name": "Papermoon",
+      "artist_name": [
+        "Jonathan Young",
+        "Lee Albrecht"
+      ],
+      "album_name": "Young Does Anime 2",
+      "spotify_url": "https://open.spotify.com/track/3M5d9IDIMCZYfSRxAr5Bti",
+      "uri": "spotify:track:3M5d9IDIMCZYfSRxAr5Bti"
+    }
+  ]
+}
